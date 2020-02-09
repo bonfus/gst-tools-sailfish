@@ -1,0 +1,5 @@
+/build
+/RPMS
+/installroot
+/rpmbuilddir
+/CMakeLists.txt.user
